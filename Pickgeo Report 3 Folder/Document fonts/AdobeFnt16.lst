@@ -1,0 +1,115 @@
+%!Adobe-FontList 1.16
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Trabajo\Fiverr\to do\Me\Report Template\Pickgeo Report 3 Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1432836336
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Bold
+FamilyName:Ubuntu
+StyleName:Bold
+FullName:Ubuntu Bold
+MenuName:Ubuntu
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:H:\Trabajo\Fiverr\to do\Me\Report Template\Pickgeo Report 3 Folder\Document fonts\Ubuntu-B.ttf
+DataFormat:sfntData
+FileLength:333616
+FileModTime:1541530102
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Ubuntu Bold
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Light
+FamilyName:Ubuntu
+StyleName:Light
+FullName:Ubuntu Light
+MenuName:Ubuntu Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Trabajo\Fiverr\to do\Me\Report Template\Pickgeo Report 3 Folder\Document fonts\Ubuntu-L.ttf
+DataFormat:sfntData
+FileLength:415552
+FileModTime:1541530102
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Ubuntu Light
+NameArray:0,Mac,4,Ubuntu Light
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu-Medium
+FamilyName:Ubuntu
+StyleName:Medium
+FullName:Ubuntu Medium
+MenuName:Ubuntu Light
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:H:\Trabajo\Fiverr\to do\Me\Report Template\Pickgeo Report 3 Folder\Document fonts\Ubuntu-M.ttf
+DataFormat:sfntData
+FileLength:341324
+FileModTime:1541530102
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Ubuntu Medium
+NameArray:0,Mac,4,Ubuntu Medium
+NameArray:0,Win,1,Ubuntu Light
+NameArray:0,Win,16,Ubuntu
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ubuntu
+FamilyName:Ubuntu
+StyleName:Regular
+FullName:Ubuntu
+MenuName:Ubuntu
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:H:\Trabajo\Fiverr\to do\Me\Report Template\Pickgeo Report 3 Folder\Document fonts\Ubuntu-R.ttf
+DataFormat:sfntData
+FileLength:353824
+FileModTime:1541530102
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Ubuntu
+NameArray:0,Win,1,Ubuntu
+%EndFont
+
